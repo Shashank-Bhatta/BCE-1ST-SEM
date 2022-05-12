@@ -1,3 +1,4 @@
 # BCE-1ST-SEM
 
 Here I will be posting all the codes that will be given + most of the codes which will be in the text book provided. Also, I will be attaching the respective algorithm, flowchart and  pseudo code whenever possible. You can help me too in making this repo solution rich and full of quality. I will be reviewing your code and updating this repo as much as I can. Thank you for viewing this.
+Also, I will be using VS code and gcc compiler (partially in windows and partially in Linux). So, the code wont be 100% useful for your exams as I wont even be importing the library conio.h or using any of its functions like getch() which is necessary for exams because our syllabus is based in Turbo C. This repo will provide you with the solution and the problem solving idea more than solution to the question from exam point of view.
